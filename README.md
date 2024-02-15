@@ -3,7 +3,7 @@
 - 🌱 I’m also currently learning: Object Oriented Lua, Javascript, Html, and CSS
 - 🥳 I’m planning to make games.
 - 📫 You can contact me at fish!!#1539.
-- 67.
+- 67
 
 ![](https://komarev.com/ghpvc/?username=sententiaa&color=lightgrey&style=flat&label=seneschal&abbreivated=true)
 <!---
