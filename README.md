@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sententiaa
-- ⛩️ I'm learning にほんじん。
+- ⛩️ I'm learning 日本語。
 - 🌱 I’m also currently learning: Luau, Python, JS, & Others.
 - 🥳 I’m planning to make games.
 - 📫 You can contact me at fish!!#1539 or fish1539.
