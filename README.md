@@ -1,9 +1,4 @@
-- 👋 gobloid hand
-- ⛩️ the entrnace
-- 🌱 lil seed
-- 🥳 gobloid face
-- 📫 the mailbox
-- 69!!!!!!! V. 14
+- Reverse Engineering
 
 ![](https://komarev.com/ghpvc/?username=sententiaa&color=lightgrey&style=flat&label=seneschal&abbreivated=true)
 <!---
